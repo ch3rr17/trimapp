@@ -1,2 +1,1 @@
-# mock-trim
 # trimapp
